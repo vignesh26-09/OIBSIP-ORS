@@ -63,11 +63,5 @@ util/ → DB Connection & Utilities
 
 
 ---
-
-## 📸 Screenshots
-(Add your screenshots here)
-
----
-
 ## 👨‍💻 Author
 Vignesh
